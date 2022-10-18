@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "pro-gallery": "^4.1.49",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
